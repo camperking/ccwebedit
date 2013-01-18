@@ -1,0 +1,10 @@
+ccwebedit is a web code editor for the minecraft mod computercraft
+
+features:
+- lists all files and folders recursively
+- syntax highlightening for lua
+- uses http://ace.ajax.org/ The High Performance Code Editor for the Web
+
+changelog:
+
+0.1 - initial commit, working example
